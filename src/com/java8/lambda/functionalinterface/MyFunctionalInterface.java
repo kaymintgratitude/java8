@@ -1,4 +1,4 @@
-package com.java8.functionalinterface;
+package com.java8.lambda.functionalinterface;
 
 /**
  * Functional interfaces have only one abstract method header
